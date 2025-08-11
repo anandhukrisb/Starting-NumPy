@@ -23,5 +23,8 @@ arr = np.array([1, 2, 3, 4])
 a1 = np.array([[1, 2, 3, 4]])
 a2 = np.array([[1], [2], [3], [4]])
 
-print(a1 * a2)
+print(a1.shape)
+print(a2.shape)
+
+# print(a1 * a2)
 
